@@ -1,0 +1,19 @@
+html{
+    background-size: 1300px;
+    background-repeat: no-repeat; 
+    background-color: grey;
+}
+p{
+    font-weight: bold;
+    color: black;
+}
+body{
+    text-align: center;
+}
+button{
+    border-style: double;
+}
+input{
+    border-style: double;
+    margin-top: 200px;
+}
